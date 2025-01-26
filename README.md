@@ -32,4 +32,4 @@ To run the Temperature Converter locally, you only need a web browser like Googl
    Clone the project to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/pawan-2003/temperature-converter.git
+   git clone https://github.com/code-with-vikrant/temperature-converter.git
